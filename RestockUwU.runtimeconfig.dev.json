@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jguna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jguna\\.nuget\\packages"
+    ]
+  }
+}
